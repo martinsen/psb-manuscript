@@ -843,12 +843,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - Case Western Reserve University
-# - name: Martin Seneviratne
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Stanford University
+- name: Martin Seneviratne
+orcid: 0000-0003-0435-3738
+ # github: null
+ twitter: @martin_sen
+affiliations: Department of Biomedical Informatics
+ - Stanford University
 # - name: Matthew Settles
 #   orcid: null
 #   github: null
